@@ -5,7 +5,7 @@
    <title>Main Page</title>
    <script src="C:\Users\SRINEHA\Documents\CSS\myscript.js"></script>
    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
-   <link rel="stylesheet" href="C:\Users\SRINEHA\Documents\CSS\Part1_master.css">
+   <link rel="stylesheet" href="Part1_master.css">
    <link rel="stylesheet" href="https://getbootstrap.com/docs/3.4/javascript/">
    // <!-- <link rel="stylesheet" href="C:\Users\SRINEHA\Documents\CSS\myscript.js"> -->
  </head>
