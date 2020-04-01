@@ -1,0 +1,38 @@
+h1 {
+  text-align: center;
+}
+
+h2 {
+  text-align: center;
+}
+h3 {
+  text-align: center;
+}
+p{
+  text-align: center;
+}
+table.center {
+    margin-left:auto;
+    margin-right:auto;
+  }
+
+.board button {
+  width: 100px;
+  height: 100px;
+  background-color: gray;
+  margin: 1px;
+  border: 4px solid black;
+  border-radius: 50%;
+}
+
+#footer{
+  background-color: #212121;
+  height: 60px;
+  position: fixed;
+  bottom: 0px;
+  left: 0px;
+  line-height: 50px;
+  color: #aaa;
+  text-align: center;
+  width: 100%;
+}
